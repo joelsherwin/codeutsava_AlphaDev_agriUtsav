@@ -1,5 +1,3 @@
-For more awesome website templates make sure to visit https://colorlib.com
+A landing page that includes links to AgriUtsav Shop, AgriUtsav Forums and Classified AgriUtsav. Also includes a rudimentary chat bot with severely limited responses as of now.
 
-All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
-
-Which means you can use them for both personal and commercial projects – for free! Just visibly credit us for the template somewhere on your site and you're good to go.
+Hosted at joelsherwin.me/agriutsav
